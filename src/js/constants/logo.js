@@ -1,0 +1,1 @@
+export const LOGO = { src: '/images/qa.jpeg', alt: `QA Logo` };

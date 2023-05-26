@@ -1,0 +1,7 @@
+{
+    "filmsCurrent": [
+        {"_id":"1","title":"Test Film 1","synopsis":" Test Film 1 Synopsis","cast":"Test Film 1 Cast","directors":"Test Film 1 Directors","showingTimes":"11:45, 13:30, 17:15, 20:45","releaseDate":"03/03/2003","filmStatus":{"$numberInt":"1"},"img":"film1Image.jpg","__v":{"$numberInt":"0"}},
+        {"_id":"2","title":"Test Film 2","synopsis":" Test Film 2 Synopsis","cast":"Test Film 2 Cast","directors":"Test Film 2 Directors","showingTimes":"11:45, 13:30, 17:15, 20:45","releaseDate":"02/29/2020","filmStatus":{"$numberInt":"1"},"img":"film2Image.jpg","__v":{"$numberInt":"0"}},
+        {"_id":"3","title":"Test Film 3","synopsis":" Test Film 3 Synopsis","cast":"Test Film 3 Cast","directors":"Test Film 3 Directors","showingTimes":"11:45, 13:30, 17:15, 20:45","releaseDate":"01/07/2007","filmStatus":{"$numberInt":"1"},"img":"film3Image.jpg","__v":{"$numberInt":"0"}}
+    ]
+}

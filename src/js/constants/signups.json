@@ -1,0 +1,24 @@
+{
+  "signups": [
+    {
+      "id": 1,
+      "title": "Mr",
+      "firstName": "George",
+      "lastName": "Harrison",
+      "email": "GeorgeH@Beatles.co.uk",
+      "phoneNumber": "012312341234",
+      "dob": "25/02/1943",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "title": "Ms",
+      "firstName": "Shirley",
+      "lastName": "Bassy",
+      "email": "ShirleyB@Bassy.co.uk",
+      "phoneNumber": "012312341234",
+      "dob": "08/37/1937",
+      "gender": "Female"
+    }
+  ]
+}
